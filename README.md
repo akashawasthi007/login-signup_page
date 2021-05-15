@@ -6,3 +6,4 @@
 - python manage.py runserver
 
 ## preview
+![Uploading Screenshot_2021-05-16_02_04_26.png…]()
